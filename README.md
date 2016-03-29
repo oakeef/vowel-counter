@@ -1,2 +1,2 @@
 # vowel-counter
-finds the vowels in a string and outputs them.
+finds the amount of each vowel in a string and outputs their amounts.
